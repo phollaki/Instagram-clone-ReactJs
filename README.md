@@ -1,3 +1,11 @@
+# Instagram clone with NextJS, tailwind and firestore database 😊😉
+
+
+https://user-images.githubusercontent.com/60651308/137129558-c79bb6c6-8190-424e-98c2-8634ff25e07e.mp4
+
+
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
